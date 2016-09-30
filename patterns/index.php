@@ -15,8 +15,8 @@
     <h2>Порождающие</h2>
     <ul>
         <li><a href="singleton/info/index.php">Singleton</a></li>
-        <li><a href="factory-method/info/index.php">Abstract Factory</a></li>
-        <li><a href="abstract-factory/info/index.php">Factory Method</a></li>
+        <li><a href="factory-method/info/index.php">Factory Method</a></li>
+        <li><a href="abstract-factory/info/index.php">Abstract Factory</a></li>
         <li><a href="prototype/info/index.php">Prototype</a></li>
     </ul>
 </div>

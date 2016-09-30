@@ -12,6 +12,7 @@
 <body>
 <h1><a href="../../">Design Patterns</a></h1>
 <h2>Composite</h2>
+<img src="images/uml.png" alt="">
 <p><strong>Определенее</strong> - </p>
 <p>Example1:<br>
     </p>

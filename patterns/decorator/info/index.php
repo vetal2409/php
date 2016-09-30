@@ -12,6 +12,7 @@
 <body>
 <h1><a href="../../">Design Patterns</a></h1>
 <h2>Decorator</h2>
+<img src="images/TileDecorator.png" alt="">
 <p>Attach additional responsibilities to an object dynamically. Decorators provide a flexible alternative to subclassing
     for extending functionality.</p>
 
