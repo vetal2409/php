@@ -34,6 +34,7 @@
         <li><a href="interpreter/info/index.php">Interpreter</a></li>
         <li><a href="strategy/info/index.php">Strategy</a></li>
         <li><a href="observer/info/index.php">Observer</a></li>
+        <li><a href="visitor/info/index.php">Visitor</a></li>
     </ul>
 </div>
 </body>

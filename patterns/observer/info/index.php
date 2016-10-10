@@ -12,6 +12,7 @@
 <body>
 <h1><a href="../../">Design Patterns</a></h1>
 <h2>Observer</h2>
+
 <h3>Subject</h3>
 <p>Subject have information about all his observers. It can have any count of observers 0..n. Subject provide interface
     for attaching, detaching, notifying observers.</p>
@@ -24,7 +25,7 @@
 </div>
 
 <div>
-    <p>Example1: Логин. Логин - субъект. Логгер,.. - наблюдатели.</p>
+    <p>Example2: Логин. Логин - субъект. Логгер,.. - наблюдатели.</p>
     <img src="images/uml_login.png" alt="">
 </div>
 
